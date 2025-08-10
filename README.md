@@ -1,7 +1,8 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+from+Tesign+Studio;Product+Design;Web+Development;Machine+Learning;AI+%26+Data+Science;Innovative+Solutions+for+modern+era;Welcome+to+our+Digital+Universe!)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,45,60,120,200&height=300&section=header&text=%20TESIGN%20STUDIO%20&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=Design%20%7C%20Development%20%7C%20ML%20Solutions&descAlignY=55&descAlign=50&descSize=18&descColor=eeeeee" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=300,200,150,100,60,30&height=300&section=header&text=%20TESIGN%20STUDIO%20&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=Design%20%7C%20Development%20%7C%20ML%20Solutions&descAlignY=55&descAlign=50&descSize=18&descColor=eeeeee" width="100%"/>
+
 <br><br>
 
 <table align="center">
@@ -154,7 +155,7 @@ class TesignStudio:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,45,100,200,300&height=220&section=footer&text=%20Keep%20Creating,%20Keep%20Coding!%20&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Keep%20in%20touch%20with%20Tesign%20Studio&descSize=18&descAlignY=85&descColor=eeeeee" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=300,200,150,100,60,30&height=220&section=footer&text=%20Keep%20Creating,%20Keep%20Coding!%20&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Keep%20in%20touch%20with%20Tesign%20Studio&descSize=18&descAlignY=85&descColor=eeeeee" width="100%"/>
 
 </div>
 
