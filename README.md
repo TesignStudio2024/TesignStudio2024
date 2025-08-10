@@ -154,7 +154,7 @@ class TesignStudio:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,45,100,200,300&height=220&section=footer&text=%20Keep%20Creating,%20Keep%20Coding!%20&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=65&descSize=18&descAlignY=85&descColor=eeeeee" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,45,100,200,300&height=220&section=footer&text=%20Keep%20Creating,%20Keep%20Coding!%20&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Keep%20in%20touch%20with%20Tesign%20Studio&descSize=18&descAlignY=85&descColor=eeeeee" width="100%"/>
 
 </div>
 
